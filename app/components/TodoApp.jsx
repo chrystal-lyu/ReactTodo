@@ -9,3 +9,5 @@ var TodoApp = React.createClass({
     );
   }
 });
+
+module.exports = TodoApp;
